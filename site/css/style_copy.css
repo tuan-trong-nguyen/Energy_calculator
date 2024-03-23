@@ -1,0 +1,29 @@
+/* * {
+    box-sizing: border-box;
+    overflow: auto;
+} */
+/* 
+header {
+    text-align: center;
+} */
+
+nav a {
+    /* font-size: 1.3em; */
+    /* display: flex; */
+}
+
+h1 {
+    color: green;
+    /* font-size: 1.5em; */
+    /* width:500px; */
+}
+
+/* a:link, a:visited {
+                
+} */
+
+a:hover, a:active {
+    background-color: lightgreen;
+    color: darkblue;
+}
+
